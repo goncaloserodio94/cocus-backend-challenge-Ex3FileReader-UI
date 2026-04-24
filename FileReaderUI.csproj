@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\FileReaderLibrary\FileReaderLibrary.csproj" />
+    <ProjectReference Include="..\cocus-backend-challenge-Ex3FileReaderLibrary-main\FileReaderLibrary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
